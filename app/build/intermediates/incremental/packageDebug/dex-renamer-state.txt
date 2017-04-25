@@ -1,7 +1,7 @@
-#Tue Apr 25 12:53:30 CEST 2017
-base.0=E\:\\Treballs\\AndroidProjects\\M8-Json\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_873c7292cbdb02b59f6270a1edf13de75f4f0b76
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=E\:\\Treballs\\AndroidProjects\\M8-Json\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f50cc21e9ad10731b1cfbbaf43d508d706314514\\classes.dex
-base.1=E\:\\Treballs\\AndroidProjects\\M8-Json\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f50cc21e9ad10731b1cfbbaf43d508d706314514
-file.0=E\:\\Treballs\\AndroidProjects\\M8-Json\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_873c7292cbdb02b59f6270a1edf13de75f4f0b76\\classes.dex
+#Tue Apr 25 17:20:22 CEST 2017
+base.0=F\:\\Android\\M8-Json\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d0ba8cd0f8f81293e6312da2029a7477e1373142
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\Android\\M8-Json\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_44cb903f15e689cdd631ecb0db89749cf7f44669\\classes.dex
+base.1=F\:\\Android\\M8-Json\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_44cb903f15e689cdd631ecb0db89749cf7f44669
+file.0=F\:\\Android\\M8-Json\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d0ba8cd0f8f81293e6312da2029a7477e1373142\\classes.dex

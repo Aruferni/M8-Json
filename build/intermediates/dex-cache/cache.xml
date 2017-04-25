@@ -3,156 +3,156 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\alber\.android\build-cache\f58651b6416b6308bc10f73b6f146d2bb11d62a3\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="E:\Treballs\AndroidProjects\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9e071579d1f02ace8b12a14dc6f6c57aa041972\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\alber\.android\build-cache\201f6ba9e75e195ed2040097bd79bb6c7487dcf0\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="E:\Treballs\AndroidProjects\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1927936ddbefac2e370bc25934f679cbf12db65f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\alber\.android\build-cache\478b689822a0a1281b897f3fb14c88859745c3fc\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="E:\Treballs\AndroidProjects\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb57c0b487556e84dbfda6a0d2935ee6fc81a15d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\alber\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="E:\Treballs\AndroidProjects\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_f616a3c8b1c0732a96ca92cd64f5a599bedadcb8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Treballs\AndroidProjects\M8-Json\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="E:\Treballs\AndroidProjects\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f50cc21e9ad10731b1cfbbaf43d508d706314514\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Treballs\AndroidProjects\M8-Json\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="65ebddb77e9dd78a39a199e905683182794f3563">
-        <dex dex="E:\Treballs\AndroidProjects\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_873c7292cbdb02b59f6270a1edf13de75f4f0b76\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\alber\.android\build-cache\a81c5e510a5422599bfcbaed742eb20b6ecbe4c2\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="E:\Treballs\AndroidProjects\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_517722f6d24847dd50ee7367524182f2a312d33c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\alber\.android\build-cache\84a380980bd04b23bdb3a346c48fda632a3de919\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="E:\Treballs\AndroidProjects\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_42f7d210246ead308c8a2c5e6b16775f2bfd09c6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\alber\.android\build-cache\201f6ba9e75e195ed2040097bd79bb6c7487dcf0\output\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="E:\Treballs\AndroidProjects\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_14d2456846812eb272cf780522a732dd4f588d97\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\alber\.android\build-cache\a81c5e510a5422599bfcbaed742eb20b6ecbe4c2\output\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="E:\Treballs\AndroidProjects\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5aa785a10bb7548ca0ee4535dd38e8aea00c98ed\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\alber\.android\build-cache\449b464e86857f862c8a5a8c8a54813a422e2994\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="E:\Treballs\AndroidProjects\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a57e97d058ffd6ee36b7104062829f43042b7d0b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\alber\.android\build-cache\4450476764bc9867806ffa33163622195e97ead0\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="E:\Treballs\AndroidProjects\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f7ad0f14ea6759fdf29172e2951ff507cca0ccc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\alber\.android\build-cache\84a380980bd04b23bdb3a346c48fda632a3de919\output\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\albertfernie\.android\build-cache\b35ad6b86bc4ebc39869104bff978d8aa77739d1\output\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="E:\Treballs\AndroidProjects\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ef1fcb53aeb932267299e169b193f559c8962cce\classes.dex" />
+        <dex dex="F:\Android\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c200bfd81bbcd6e077bc2fbca8e24a1e07046f16\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\alber\.android\build-cache\f58651b6416b6308bc10f73b6f146d2bb11d62a3\output\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\albertfernie\.android\build-cache\60c08762ee60f64ef26043c9ab7dd9fe2d8fa57e\output\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="E:\Treballs\AndroidProjects\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_692741e29e641f63d9bac853cd446a8f9077d2ba\classes.dex" />
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\Android\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e9ff4daf70e7c8c4a7771538cdadd3c957cb45c8\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\alber\.android\build-cache\d3450a11a267426547a9ebe366eb6d5adbf264f3\output\jars\classes.jar"
+        jar="C:\Users\albertfernie\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\Android\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_632f8ef1549b736c8e470edb12da67d59d94cf18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\albertfernie\.android\build-cache\7ec10ebd424eef43ea713e85d1077eaf6415d5e3\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="E:\Treballs\AndroidProjects\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1e00cfd53b9aef0d2461892e4678883dae83f4e\classes.dex" />
+        <dex dex="F:\Android\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_118f934e7deb9f10d75a7bd8f6d8cada1ae9402f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\alber\.android\build-cache\449b464e86857f862c8a5a8c8a54813a422e2994\output\jars\libs\internal_impl-24.2.1.jar"
+        jar="F:\Android\M8-Json\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f50eac17a2f964abf189f10be06de30a8069353">
+        <dex dex="F:\Android\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_44cb903f15e689cdd631ecb0db89749cf7f44669\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\albertfernie\.android\build-cache\24b395e8984ef2273e272df74063d8530b81f634\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\Android\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e45cbea62cff365b041700214eb5ec513d6ded72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\albertfernie\.android\build-cache\24b395e8984ef2273e272df74063d8530b81f634\output\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="E:\Treballs\AndroidProjects\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b111df40ae523e8453a9f4f42e9d0cdd34305753\classes.dex" />
+        <dex dex="F:\Android\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_860af08cdb653e5e337204b3e1c959bce450f9b6\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\alber\.android\build-cache\272fdfa141af2421ed18b2b880ccdf3a22322a09\output\jars\classes.jar"
+        jar="C:\Users\albertfernie\.android\build-cache\997889b6434b12d28f48851330cecc52dba5751e\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\Android\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8d53bba70db830f6ce717d6a229520474f23b72d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\albertfernie\.android\build-cache\42de824838e26745b207b3dcf2c37376707cab98\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\Android\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ada1a86809a23550a8060fc55377605c4579580\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\albertfernie\.android\build-cache\42de824838e26745b207b3dcf2c37376707cab98\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\Android\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5d83c3cac26339c3be69f764350835ff87cf8f63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\M8-Json\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\Android\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d0ba8cd0f8f81293e6312da2029a7477e1373142\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\albertfernie\.android\build-cache\614f03d32ef7c1368b260d681ebd43a6a0d62c15\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="E:\Treballs\AndroidProjects\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_215fd2ac5471b7b4c11a4efb0cd645acec7b2398\classes.dex" />
+        <dex dex="F:\Android\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2ec07ce8cbebea308ecc0f0dfb1be1f02516838\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\albertfernie\.android\build-cache\0b54a6a543438eda9ccc62ac18214209af59e706\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\Android\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f07d87886bae575eec7c6355a4b261543a829fa6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\albertfernie\.android\build-cache\60c08762ee60f64ef26043c9ab7dd9fe2d8fa57e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\Android\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77c1719d10b732e7c71d38a987be50897e22d929\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\albertfernie\.android\build-cache\b35ad6b86bc4ebc39869104bff978d8aa77739d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\Android\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_32a7500e5a7cf28517f6e8ff4722eb7a4cbad1da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\albertfernie\.android\build-cache\997889b6434b12d28f48851330cecc52dba5751e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\Android\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_052c7259468ab16545c322996b334c64b29fbd17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\albertfernie\.android\build-cache\e1848783c204cec902d11e7c7bf0d7d4a8b1fff6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\Android\M8-Json\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de3ef6d75f5f7baa4a3ab1cefb291dfc65f308ac\classes.dex" />
     </item>
 
 </items>

@@ -1,9 +1,5 @@
 [
     {
-        "merged": "E:\\Treballs\\AndroidProjects\\M8-Json\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
-        "source": "E:\\Treballs\\AndroidProjects\\M8-Json\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "F:\\Android\\M8-Json\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
         "source": "F:\\Android\\M8-Json\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }

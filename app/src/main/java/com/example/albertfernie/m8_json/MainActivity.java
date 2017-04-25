@@ -9,6 +9,7 @@ import android.widget.TextView;
 
 import org.json.JSONException;
 import org.json.JSONObject;
+import org.json.JSONStringer;
 
 import java.math.BigInteger;
 import java.security.MessageDigest;
@@ -36,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         JSONObject cifradoJson = stringsTojson();
         sha.setText(cifradoSha);
         md5.setText(cifradoMd5);
-        json.setText((CharSequence) cifradoJson);
+        json.setText(cifradoJson.toString());
     }
 
     private void  jsonToStrings(String json) throws JSONException {
@@ -47,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
     private JSONObject stringsTojson() throws JSONException {
         JSONObject json = new JSONObject();
-        json.put("UserName", login.getText().toString());
+        json.put("Login", login.getText().toString());
         json.put("Password", password.getText().toString());
         return json;
     }
@@ -85,6 +86,4 @@ public class MainActivity extends AppCompatActivity {
         json = (EditText) findViewById(R.id.etJson);
         btCifrar = (Button) findViewById(R.id.btAccept);
     }
-
-
 }
